@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Frontend Part on github and backend on heroku.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
